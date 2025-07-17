@@ -31,14 +31,6 @@ Project Management: Jira 📅
 Version Control: GitHub 🐙
 AI: Google AI Studio 🤖
 
-📂 Project Structure
-
-Introduction: Background, motivations, and objectives of EduConnect.
-Requirements: Detailed stakeholder and functional/non-functional requirements.
-Design & Development: MVC architecture, ER diagrams, and process flows.
-Testing: Comprehensive test cases for payments, subscriptions, and more.
-Evaluation & Conclusion: Insights into EduConnect’s impact and future potential.
-
 🙌 Meet the Team
 Our dedicated team from SLIIT brought EduConnect to life:
 
@@ -53,11 +45,5 @@ P.H.N. Fernando (IT23285774) 🌍: Background, motivations, and appendices.
 Submission: May 2025
 Institution: Sri Lanka Institute of Information Technology (SLIIT)
 Course: IT2080 Information Technology Project
-
-🌈 Get Involved
-Explore EduConnect, contribute to its growth, or use it as inspiration for your own projects! Clone the repo, try it out, and share your feedback. Let’s make education more accessible and engaging together! 🤝
-🔗 GitHub: https://github.com/sandaru3/u/Ed0/Connect
-📬 Contact Us
-Have questions or ideas? Reach out to us via the GitHub repository or connect with us on X for updates and discussions! 📩
 
 EduConnect: Transforming education, one click at a time. 🌟 Let’s learn, grow, and connect! 🚀
